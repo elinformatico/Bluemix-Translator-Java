@@ -60,7 +60,7 @@ Resultado:
 ![image](imagenes/resultado.PNG)
 
 --------
-Soporte y Duda
+Soporte y dudas
 --------
 
 email: donoe1985@gmail.com
