@@ -53,7 +53,7 @@ Nos debera desplegar un sitio Web y dependiendo como las hayamos declarado nuest
 
 Funcionando seria como sigue:
 
-(http://localhost:8080/BluemixTranslate/TranslateBluemixServlet?frase=Hello how are you, you are very pretty)
+http://noehdez.info:8080/BluemixTranslate/TranslateBluemixServlet?frase=still,becalmed
 
 Resultado:
 
